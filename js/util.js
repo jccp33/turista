@@ -710,7 +710,7 @@ function ShowAirport(){
     <p>
     ESTE ES TU PUNTO DE PARTIDA
     <br>
-    NO OLVIDES COBRAR $800 CUANDO PASES POR AQUI
+    NO OLVIDES COBRAR $10,000 CUANDO PASES POR AQUI
     </p>
     `;
     document.getElementById("modal").style.display = "block";
